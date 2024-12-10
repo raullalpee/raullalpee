@@ -4,7 +4,7 @@ Oi! Meu nome é Raul 👋, sou um eterno explorador do mundo da tecnologia e al�
 
 - 🌱 Aprendendo algo novo.
 - 🚀 Desenvolvendo ideias malucas que podem ou não mudar o mundo.
-- 🎮 Perdido(a) em um jogo indie ou desenhando mapas de fantasia.
+- 🎮 Perdido(a) em um Servidor Dark Fantasy no Minecraft.
 
 ---
 
