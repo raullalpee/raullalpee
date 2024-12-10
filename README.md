@@ -1,16 +1,24 @@
-## Hi there 👋
+# 🌌 Bem-vindo ao meu universo digital!
 
-<!--
-**raullalpee/raullalpee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Oi! Meu nome é Raul 👋, sou um eterno explorador do mundo da tecnologia e além! Quando não estou codando, estou provavelmente:
 
-Here are some ideas to get you started:
+- 🌱 Aprendendo algo novo.
+- 🚀 Desenvolvendo ideias malucas que podem ou não mudar o mundo.
+- 🎮 Perdido(a) em um jogo indie ou desenhando mapas de fantasia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 Sobre mim
+
+💻 **O que faço**: Transformo café ☕ e ideias 💡 em código funcional.  
+🎨 **O que me inspira**: Criar coisas que fazem as pessoas sorrirem (ou dizerem "Uau!").  
+🌎 **Onde estou**: Baseado(a) no Planeta Terra (mais especificamente: Abreu e Lima - PE)  
+
+---
+
+## ⚡ Tecnologias e Ferramentas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
