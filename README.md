@@ -4,7 +4,7 @@ Oi! Meu nome é Raul 👋, sou um eterno explorador do mundo da tecnologia e al�
 
 - 🌱 Aprendendo algo novo.
 - 🚀 Desenvolvendo ideias malucas que podem ou não mudar o mundo.
-- 🎮 Perdido(a) em um Servidor Dark Fantasy no Minecraft.
+- 🎮 Perdido em um Servidor Dark Fantasy no Minecraft.
 
 ---
 
@@ -12,7 +12,7 @@ Oi! Meu nome é Raul 👋, sou um eterno explorador do mundo da tecnologia e al�
 
 💻 **O que faço**: Transformo café ☕ e ideias 💡 em código funcional.  
 🎨 **O que me inspira**: Criar coisas que fazem as pessoas sorrirem (ou dizerem "Uau!").  
-🌎 **Onde estou**: Baseado(a) no Planeta Terra (mais especificamente: Abreu e Lima - PE)  
+🌎 **Onde estou**: Baseado no Planeta Terra (mais especificamente: Abreu e Lima - PE)  
 
 ---
 
