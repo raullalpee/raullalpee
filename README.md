@@ -3,7 +3,6 @@
 Oi! Meu nome é Raul 👋, sou um eterno explorador do mundo da tecnologia e além! Quando não estou codando, estou provavelmente:
 
 - 🌱 Aprendendo algo novo.
-- 🚀 Desenvolvendo ideias malucas que podem ou não mudar o mundo.
 - 🎮 Perdido em um Servidor no Minecraft.
 
 ---
