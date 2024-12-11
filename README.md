@@ -1,4 +1,4 @@
-# 🌌 Bem-vindo ao meu universo digital!
+# 👋 Hi There!
 
 Oi! Meu nome é Raul 👋, sou um eterno explorador do mundo da tecnologia e além! Quando não estou codando, estou provavelmente:
 
