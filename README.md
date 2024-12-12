@@ -1,21 +1,23 @@
 # Hi There 👋
 
-Oi! Meu nome é Raul 👋, sou um eterno explorador do mundo da tecnologia e além! Quando não estou codando, estou provavelmente:
+Oi! Meu nome é Raul 👋, sou um Explorador do Mundo Virtual e da Tecnologia.
 
+---
+
+Quando não estou Codando eu provavelmente:
 - 🌱 Aprendendo algo novo.
-- 🎮 Perdido em um Servidor no Minecraft.
+- 🎮 Perdido em um Mundo no Minecraft.
 
 ---
 
 ## 💡 Sobre mim
 
 💻 **O que faço**: Transformo café ☕ e ideias 💡 em código funcional.  
-🎨 **O que me inspira**: Criar coisas que fazem as pessoas sorrirem (ou dizerem "Uau!").  
-🌎 **Onde estou**: Baseado no Planeta Terra (mais especificamente: Abreu e Lima - PE)  
+🎨 **O que me inspira**: Criar coisas que fazem as pessoas sorrirem (ou dizerem "Uau!").
 
 ---
 
-## ⚡ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
