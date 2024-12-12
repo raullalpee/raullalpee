@@ -4,12 +4,6 @@ Oi! Meu nome é Raul 👋, sou um Explorador do Mundo Virtual e da Tecnologia.
 
 ---
 
-Quando não estou Codando eu provavelmente:
-- 🌱 Aprendendo algo novo.
-- 🎮 Perdido em um Mundo no Minecraft.
-
----
-
 ## 💡 Sobre mim
 
 💻 **O que faço**: Transformo café ☕ e ideias 💡 em código funcional.  
