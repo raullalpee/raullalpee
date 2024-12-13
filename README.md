@@ -9,3 +9,6 @@ Olá, me chamo Raul e sou um Desenvolvedor Java, me enquadro neste Título desde
 # Java Developer <img src="https://i.postimg.cc/MTWKLyCg/java-2.png" />
 - I'm raullalpee
 - I'm Brazilian Developer
+
+<a href="https://www.linkedin.com/in/raul-lauro-alves-pereira-3403b733b/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
