@@ -1,15 +1,9 @@
 # Hi There 👋
 
-## 💡 Sobre mim
-
-💻 **O que faço**: Transformo café ☕ e ideias 💡 em código funcional.  
-🎨 **O que me inspira**: Criar coisas que fazem as pessoas sorrirem (ou dizerem "Uau!").
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+# Java Developer <img src="https://i.postimg.cc/MTWKLyCg/java-2.png" />
+- I'm raullalpee
+- I'm Brazilian Developer
+- Interests: MySQL, 
+--- 
+## 🌱 Sobre Mim:
+Olá, me chamo Raul e sou um Desenvolvedor Java, me enquadro neste Título desde que comecei a Estudar Java com Atuais 14 Anos de Idade. Quando comecei a estudar programação começando pelo Java percebi que com Linguagem de Programação podemos fazer Diversar coisas desde Aplicações, Web Sites e tudo que possamos imaginar no mundo da tecnologia.
