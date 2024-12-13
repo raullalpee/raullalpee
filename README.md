@@ -1,9 +1,5 @@
 # Hi There 👋
 
-Oi! Meu nome é Raul 👋, sou um Explorador do Mundo Virtual e da Tecnologia.
-
----
-
 ## 💡 Sobre mim
 
 💻 **O que faço**: Transformo café ☕ e ideias 💡 em código funcional.  
